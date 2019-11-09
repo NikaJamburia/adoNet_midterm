@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\bin\Debug\midterm.exe.config
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\bin\Debug\midterm.exe
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\bin\Debug\midterm.pdb
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.exe
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.pdb
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.AddClient.resources
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.createSesxi.resources
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.CreateAnabari.resources
+c:\users\user\documents\visual studio 2015\Projects\midterm\midterm\obj\Debug\midterm.Search.resources
